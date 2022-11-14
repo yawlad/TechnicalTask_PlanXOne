@@ -1,0 +1,68 @@
+[
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Забота о себе"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Зарплата"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Здоровье и фитнес"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Кафе и рестораны"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Машина"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Образование"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Отдых и развлечения"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Платежи, комиссии"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Покупки: одежда, техника"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Продукты"
+    }
+  },
+  {
+    "model": "categoriesapp.standartcategory",
+    "fields": {
+      "name": "Проезд"
+    }
+  }
+]
